@@ -1,0 +1,118 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Carlo%
+\ \BBA {} Padilla-Walker%
+}{%
+Carlo%
+\ \BBA {} Padilla-Walker%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+carlo2020prosocial}
+\APACinsertmetastar {%
+carlo2020prosocial}%
+\begin{APACrefauthors}%
+Carlo, G.%
+\BCBT {}\ \BBA {} Padilla-Walker, L\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Adolescents’ prosocial behaviors through a
+  multidimensional and multicultural lens} {Adolescents’ prosocial behaviors
+  through a multidimensional and multicultural lens}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Child Development Perspectives}{14}{4}{265--272}.
+\newblock
+\begin{APACrefDOI} \doi{10.1111/cdep.12391} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Guay%
+\ \BBA {} Bureau%
+}{%
+Guay%
+\ \BBA {} Bureau%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+guay2018motivation}
+\APACinsertmetastar {%
+guay2018motivation}%
+\begin{APACrefauthors}%
+Guay, F.%
+\BCBT {}\ \BBA {} Bureau, J\BHBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Motivation at school: Differentiation between and within
+  school subjects matters in the prediction of academic achievement}
+  {Motivation at school: Differentiation between and within school subjects
+  matters in the prediction of academic achievement}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Contemporary Educational Psychology}{54}{}{42--54}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.cedpsych.2018.05.004} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+King%
+}{%
+King%
+}{%
+{\protect \APACyear {2022}}%
+}]{%
+king2022inequality}
+\APACinsertmetastar {%
+king2022inequality}%
+\begin{APACrefauthors}%
+King, R\BPBI B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Sociocultural and ecological perspectives on achievement
+  motivation} {Sociocultural and ecological perspectives on achievement
+  motivation}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Asian Journal of Social Psychology}{25}{3}{433--448}.
+\newblock
+\begin{APACrefDOI} \doi{10.1111/ajsp.12507} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sommet%
+, Weissman%
+\BCBL {}\ \BBA {} Elliot%
+}{%
+Sommet%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2023}}%
+}]{%
+sommet2023inequality}
+\APACinsertmetastar {%
+sommet2023inequality}%
+\begin{APACrefauthors}%
+Sommet, N.%
+, Weissman, D\BPBI L.%
+\BCBL {}\ \BBA {} Elliot, A\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Income inequality predicts competitiveness and
+  cooperativeness at school} {Income inequality predicts competitiveness and
+  cooperativeness at school}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Educational Psychology}{115}{1}{173--191}.
+\newblock
+\begin{APACrefDOI} \doi{10.1037/edu0000731} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

@@ -1,5 +1,7 @@
 \documentclass[a4paper,man,natbib,floatsintext,12pt]{apa7}
 
+\usepackage{rotating}
+\usepackage{threeparttable}
 \usepackage[english]{babel} %character and hyphenation rules specific to the language you choose
 %\usepackage[utf8x]{inputenc}
 \usepackage{graphicx}
@@ -28,15 +30,16 @@
 \newcommand{\nonsigFtest}[3]{\textit{F}(#1,#2) = #3, \textit{p}$>$.05}
 
 
-\title{My First Manuscript in \LaTeX  }
-\shorttitle{This is the short title}
-\author{Paul D. Kieffaber}
+\title{Changes of Identification with Educational Value and Academic Prosocial Behavior among Early Adolescents and Their Relationship with Perceived Economic Inequality and Well-being}
+\shorttitle{Identification with Educational Value and Prosocial Behavior}
+\author{Tingyi Zhang}
 \affiliation{College of William \& Mary}
-\journal{The Best Psychology Journal EVER!}
-\abstract{\blindtext}
-\keywords{APA style, demonstration}
-\authornote{I would like to thank my dogs for sitting quietly while I worked on this.}
-\leftheader{Alternate page header in man mode}
+\journal{PSYC672 Assignment 1}
+\abstract{This study investigated changes in identification with educational value (IEV) and academic prosocial behavior (APB) among a sample of 634 early adolescents. Data were collected with a two-wave longitudinal design over seven months across consecutive school terms. It also explored whether perceived economic inequality predicts these changes, as well as links with subjective well-being (positive affect, negative affect, and life satisfaction). Latent change score models revealed that (a) IEV and APB levels, which covaried, decreased over time; (b) higher perceived economic inequality predicted greater declines in IEV; and (c) smaller decreases in IEV and APB were associated with higher subjective well-being, and the patterns of their associations with different components of well-being showed some nuances. The weaker-than-expected relationship between perceived economic inequality and changes in APB was discussed with particular attention. Findings highlight the importance of changes in students’ academic motivation and prosocial behavior and enrich understanding of how perceived economic inequality affects young adolescents’ development.}
+\keywords{Perceived economic inequality, identification with educational value, academic prosocial behavior, subjective well-being, latent change score model}
+\authornote{This manuscript was prepared for PSYC672. I would like to thank Professor Kieffaber for guidance on this assignment.}
+
+\setlength{\headheight}{15pt}
 
 %-------------- END PREAMBLE  -------------------
 
@@ -52,7 +55,6 @@
 \input{results.tex}
 
 \input{discussion.tex}
-
 
 \bibliography{references.bib}
 
